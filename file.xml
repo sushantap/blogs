@@ -1,0 +1,6 @@
+<rdf:Description rdf:about="http://www.talentica.com/ontology/Person">
+    <owl:sameAs rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:label>Person</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+
